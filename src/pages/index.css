@@ -18,3 +18,14 @@
   background: #7FF279;
   animation: flash 1s  forwards;
 }
+
+ul {
+  display: block;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
